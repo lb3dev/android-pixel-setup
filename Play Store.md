@@ -6,7 +6,7 @@ https://play.google.com/store/apps
 ### Basic Apps
 
 | Application | Link                                                                                   |
-| :---: | :--- |
+| :--- | :--- |
 |   Firefox   | https://play.google.com/store/apps/details?id=org.mozilla.firefox                      |
 | Proton Mail | https://play.google.com/store/apps/details?id=ch.protonmail.android                    |
 |     VLC     | https://play.google.com/store/apps/details?id=org.videolan.vlc                         |
@@ -16,7 +16,7 @@ https://play.google.com/store/apps
 ### Tools
 
 |     Application      | Link                                                                                      |
-| :---: |:--- |
+| :--- | :--- |
 | Google Authenticator | https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2      |
 |    Google Sheets     | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets |
 |      Bitwarden       | https://play.google.com/store/apps/details?id=com.x8bit.bitwarden                         |
@@ -24,7 +24,7 @@ https://play.google.com/store/apps
 ### Social Media
 
 | Application | Link                                                                  |
-| :---: |:--- |
+| :--- | :--- |
 |   Discord   | https://play.google.com/store/apps/details?id=com.discord             |
 |  Instagram  | https://play.google.com/store/apps/details?id=com.instagram.android   |
 | Eventbrite  | https://play.google.com/store/apps/details?id=com.eventbrite.attendee |
@@ -32,6 +32,6 @@ https://play.google.com/store/apps
 ### Retails
 
 | Application | Link                                                                  |
-| :---: |:--- |
+| :--- | :--- |
 |  UNIQLO CA  | https://play.google.com/store/apps/details?id=com.uniqlo.ca.catalogue |
 |   Kijiji    | https://play.google.com/store/apps/details?id=com.ebay.kijiji.ca      |
