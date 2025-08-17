@@ -1,6 +1,6 @@
-# Pixel Phones - Android 14 / 15 Setup Notes
+# Pixel Phones - Android 14 / 15 / 16 Setup Notes
 
-Personal notes to setup brand new Pixel phones running Android 14 / 15
+Personal notes to setup brand new Pixel phones running Android 14 / 15 / 16
 
 ###  Long Press Home Screen > Home Settings
 
@@ -73,6 +73,11 @@ Personal notes to setup brand new Pixel phones running Android 14 / 15
   * Spam protection - On
   * RCS chats - Off
   * Advanced > Auto-download MMS - Off
+
+---
+
+* Google Play system update (Android 15 / 16)
+  * Security and Privacy > System & updates > Google Play system update
 
 ### Google Chrome
 
