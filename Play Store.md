@@ -3,6 +3,14 @@
 Direct Play Store link:\
 https://play.google.com/store/apps
 
+### Google
+
+| Application          | Link                                                                                      |
+| :--- | :--- |
+| Google Sheets        | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets |
+| Google Clock         | https://play.google.com/store/apps/details?id=com.google.android.deskclock                |
+| Google Authenticator | https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2      |
+
 ### Basic Apps
 
 | Application | Link                                                                                   |
@@ -17,8 +25,6 @@ https://play.google.com/store/apps
 
 |     Application      | Link                                                                                      |
 | :--- | :--- |
-| Google Authenticator | https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2      |
-|    Google Sheets     | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets |
 |      Bitwarden       | https://play.google.com/store/apps/details?id=com.x8bit.bitwarden                         |
 
 ### Social Media
