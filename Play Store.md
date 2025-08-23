@@ -10,6 +10,7 @@ https://play.google.com/store/apps
 | Google Sheets        | https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets |
 | Google Clock         | https://play.google.com/store/apps/details?id=com.google.android.deskclock                |
 | Google Authenticator | https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2      |
+| Google Keyboard      | https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin        |
 
 ### Basic Apps
 
