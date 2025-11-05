@@ -2,6 +2,14 @@
 
 Personal notes to setup brand new Pixel phones running Android 14 / 15 / 16
 
+###  Long Press Home Screen > Wallpaper and style
+
+---
+
+* Colors > Choose colour
+* Color contrast > High
+* Layout > Small
+
 ###  Long Press Home Screen > Home Settings
 
 ---
