@@ -36,8 +36,8 @@ In Fastboot, select Recovery mode. On "No command" screen, hold Power button and
 * System
   * Life Translate - Off
   * Keyboard > Gboard > Text Correction
-    * Auto-correction Off
-    * Auto-capitalization Off
+    * Auto-correction - Off
+    * Auto-capitalization - Off
 
 ---
 
