@@ -2,8 +2,10 @@
 
 ---
 
-* New tab/page
-    * Discover > Triple dot menu - Off
+* Customize new tab page
+    * New tab page cards
+        * Chrome tips - Off
+    * Discover feed - Off
 * Settings
     * Privacy and security
         * Ad privacy
