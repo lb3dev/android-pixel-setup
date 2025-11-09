@@ -2,6 +2,13 @@
 
 Personal notes to setup brand new Pixel phones running Android 14 / 15 / 16
 
+### Boot to device recovery
+
+Hold Power button and Volume down to boot to Fastboot (During initial boot or restart)
+
+In Fastboot, select Recovery mode. On "No command" screen, hold Power button and press Volume up once
+
+
 ###  Long Press Home Screen > Wallpaper and style
 
 ---

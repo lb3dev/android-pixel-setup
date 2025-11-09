@@ -1,5 +1,9 @@
 # Samsung Galaxy Phones - One UI 7 Setup Notes
 
+### Boot to device recovery
+
+Hold Power button and Volume up to boot
+
 ###  Initial Setup
 
 ---
