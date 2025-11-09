@@ -37,6 +37,7 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
     * Bluetooth - Off
     * Wi-Fi > Top right menu > Advanced settings
         * Wi-Fi network notifications - Off
+        * Hotspot 2.0 - Off
         * Allow WEP networks - Off
     * More connection settings
         * Nearby device scanning - Off
@@ -44,7 +45,7 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 ---
 
 * Connected devices
-  * Music Share - Off
+    * Music Share - Off
 
 ---
 
@@ -52,29 +53,34 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
     * System sound
         * Touch interactions - Off
         * Dialing keypad - Off
-        * Samsung Keybaord - Off
+        * Samsung Keyboard - Off
         * Screen lock/unlock - Off
     * Volume
+        * Ringtone - Max
         * Media - Off
-        * Notification - Off
-        * System - Off
+        * Notification - Half
+        * System - Half
+        * Alarm - Max
     * System vibration
+        * Touch interactions - Off
         * Dialing keypad - Off
         * Samsung Keyboard - Off
         * Charging - Off
         * Navigation gestures - Off
+        * Camera feedback - Off
 
 ---
 
 * Notifications
-  * App Notifications - Turn off for each unwanted app
-  * Advanced settings
-    * Notification history - On
-    * Suggest actions and replies for notifications - Off
+    * App Notifications - Turn off for each unwanted app
+    * Advanced settings
+        * Notification history - On
+        * Suggest actions and replies for notifications - Off
 
 ---
 
 * Display
+    * Motion smoothness - Adaptive
     * Screen timeout > Set to 5 minutes
     * Edge panels - Off
     * Navigation bar > Swipe gestures
@@ -82,7 +88,7 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 ---
 
 * Battery
-  * Battery protection - Basic
+    * Battery protection - Basic
 
 ---
 
@@ -92,8 +98,22 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
         * Tap to check phone - Off
         * Lift to check phone - Off
     * Now bar
-      * Live notifications > View more > Turn off apps
-      * Now brief - Off
+        * Live notifications > View more > Turn off apps
+        * Now brief - Off
+
+---
+
+* Security and privacy
+    * More security settings
+        * Passwords, passkeys, and autofill
+            * Preferred service - None
+            * Google - Off
+        * Make passwords visible - On
+  * Controls and alerts
+        * Camera access - Off
+        * Microphone access - Off
+    * More privacy settings
+        * Android personalization service - Off    
 
 ---
 
@@ -115,12 +135,7 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 
 ---
 
-* Security and privacy
-    * More security settings > Passwords, passkeys, and autofill
-        * Preferred Service - None
-        * Google - Off
-    * Controls and alerts
-        * Camera access - Off
-        * Microphone access - Off
-    * More privacy settings
-        * Android personalization service - Off
+* General management
+    * Keyboard
+        * Default keyboard - Gboard
+        * Google Voice typing - Off
