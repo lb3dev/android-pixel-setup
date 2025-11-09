@@ -93,10 +93,3 @@ In Fastboot, select Recovery mode. On "No command" screen, hold Power button and
 
 * Google Play system update (Android 15 / 16)
   * Security and Privacy > System & updates > Google Play system update
-
-### Google Chrome
-
----
-
-* Settings
-  * Password Manager > Ask to save - Off
