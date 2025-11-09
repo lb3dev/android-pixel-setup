@@ -43,6 +43,11 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 
 ---
 
+* Connected devices
+  * Music Share - Off
+
+---
+
 * Sounds and vibration
     * System sound
         * Touch interactions - Off
@@ -61,6 +66,14 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 
 ---
 
+* Notifications
+  * App Notifications - Turn off for each unwanted app
+  * Advanced settings
+    * Notification history - On
+    * Suggest actions and replies for notifications - Off
+
+---
+
 * Display
     * Screen timeout > Set to 5 minutes
     * Edge panels - Off
@@ -68,11 +81,19 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
 
 ---
 
+* Battery
+  * Battery protection - Basic
+
+---
+
 * Lock screen and AOD
     * Always On Display - Off
-    * Lock Screen
+    * Lock Screen (One UI 7)
         * Tap to check phone - Off
         * Lift to check phone - Off
+    * Now bar
+      * Live notifications > View more > Turn off apps
+      * Now brief - Off
 
 ---
 
@@ -89,6 +110,8 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
         * Lift to wake - Off
         * Double tap to turn on screen - Off
         * Double tap to turn off screen - Off
+        * Alert when phone picked up - Off (One UI 8)
+        * Mute with gestures - Off (One UI 8)
 
 ---
 
