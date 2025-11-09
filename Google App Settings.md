@@ -39,3 +39,34 @@
     * Auto-download MMS - Off
     * Get SMS delivery reports - On
     * Show iPhone reactions as emoji - Off
+
+### Google Play Store
+
+---
+
+* Settings
+    * General
+        * Notification settings
+            * Account - Off
+            * Updates available - Off
+            * Your community - Off
+        * App install optimization - Off
+    * Network preferences
+        * App download preference - Ask me every time / WiFi only
+        * Auto-update apps - Don't auto-update apps
+        * Auto-play videos - Don't auto-play videos
+
+### Gboard
+
+---
+
+* Gboard
+    * Corrections and suggestions
+        * Auto-correction - Off
+        * Auto-capitalization - Off
+        * Smart compose - Off
+        * Don't suggest offensive words - Off
+        * Smart replies - Off
+    * Privacy
+        * Share usage statistics - Off
+        * Improve for everyone - Off
