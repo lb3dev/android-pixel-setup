@@ -109,7 +109,7 @@ Swipe down from home screen, swipe down or right again, click Pencil icon
             * Preferred service - None
             * Google - Off
         * Make passwords visible - On
-  * Controls and alerts
+    * Controls and alerts
         * Camera access - Off
         * Microphone access - Off
     * More privacy settings
