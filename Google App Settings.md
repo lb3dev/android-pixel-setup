@@ -70,3 +70,27 @@
     * Privacy
         * Share usage statistics - Off
         * Improve for everyone - Off
+
+### Firefox
+
+---
+
+* Settings
+    * Homepage
+        * Shortcuts - Off
+        * Jump back in - Off
+        * Bookmarks - Off
+        * Recently viewed - Off
+        * Stories - Off
+        * Sponsored stories - Off
+    * Customize
+        * Address bar location - Bottom
+        * Scroll to hide toolbar - Off
+    * Passwords
+        * Autofill in Firefox - Off
+        * Autofill in other apps - Off
+        * Sync passwords - Off
+    * Autofill
+        * Save and fill addresses - Off
+        * Save and fill payment methods - Off
+        * Sync cards - Off
