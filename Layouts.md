@@ -53,7 +53,7 @@
 
 * WiFi
 * Mobile Data
-* Screenshot
 * NFC
-* Secure Folder
-* Mute
+* Location
+* Extra Dim
+* Flashlight
