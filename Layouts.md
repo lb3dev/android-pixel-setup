@@ -1,5 +1,7 @@
 ## Homepage
 
+![Pixel Homepage](/images/pixel/Homepage.png)
+
 #### Bottom layer
 
 * Phone
@@ -18,8 +20,8 @@
 
 #### Layer 1
 
-* Chrome
-* Google Sheets
+* Contacts
+* Google Calendar
 * Maps
 * Clock
 * WeatherCAN
