@@ -29,14 +29,21 @@
 #### Top layer
 
 * Internet (2 slots, WiFi + Mobile Data)
-* Alarm (2 slots)
+* Alarm
+* Location
 
-#### Bottom layer
+#### Bottom layers
 
-* Files
 * Calculator
+* Files
+* Extra Dim
 * Flashlight
-* Detect music / Google Wallet
+
+
+* Battery Saver
+* Detect Music
+* Bluetooth
+* Google Wallet
 
 ## Top Panel (Samsung)
 
