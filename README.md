@@ -8,6 +8,9 @@ Hold Power button and Volume down to boot to Fastboot (During initial boot or re
 
 In Fastboot, select Recovery mode. On "No command" screen, hold Power button and press Volume up once
 
+### Physical button screenshot
+
+Tap Power Button + Volume Down
 
 ###  Long Press Home Screen > Wallpaper and style
 
