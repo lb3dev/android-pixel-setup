@@ -26,6 +26,8 @@
 
 ## Top Bar Tiles (Pixel)
 
+![Pixel Top Bar Tiles](/images/pixel/Top%20Bar%20Tiles%20Layout.png)
+
 #### Top layer
 
 * Internet (2 slots, WiFi + Mobile Data)
