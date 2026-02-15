@@ -84,6 +84,8 @@ Tap Power Button + Volume Down
   * Software updates
       * System update > Latest
       * Google Play system update > Latest
+  * Gestures
+      * Press and hold power button > Access power menu
 
 ---
 
